@@ -1,0 +1,72 @@
+body{
+	background: fixed url(fon/fon1.jpg);
+	background-size: 100% auto;
+	margin: 0;
+}
+p{
+	text-align: left;
+	text-align: center;
+	text-align: right;
+	text-align: justify;
+	color: white;
+}
+ul{
+	background-color: white;
+}
+li{
+	color: white;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+.menu a:hover {
+	background-color: blue;
+	cursor: pointer;
+}
+.index{
+	background: lightseagreen;
+	position: relative;
+   	width: 100%;
+    	display: block;
+   	padding: 0%;
+	padding: 20px;
+	max-width: 1000px;
+	margin: 0 auto;	
+	min-height: 100px; 
+}
+h1{
+	color: white;		
+}
+h2{
+	color: white;
+}
+h3{
+	color: white;
+}
+h4{
+	color: white;
+}
+h5{
+	color: white;
+}
+h6{
+	color: white;
+} 
+img{
+	width: 100%;
+}
+.block-wrapper{
+	padding: 20px;
+	max-width: 960px;
+	margin: 0 auto;	
+	background: lightseagreen; 
+}
+.menu a{
+	background: steelblue;
+	color: white;
+	padding: 10px 20px;
+}
+.video{
+	width: 70%;
+}

@@ -1,0 +1,786 @@
+body {
+	margin: 0px;
+}
+
+.table-wrapper {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.fon-wrapper,
+.fon-wrapper_right {
+	background: fixed url(fon/fon3.jpg);
+}
+
+.fon-wrapper:hover {
+	background: fixed url(fon/fon1.jpg);
+}
+
+.fon-wrapper_right:hover {
+	background: fixed url(fon/fon4.jpg);
+}
+
+p {
+	text-align: left;
+	text-align: center;
+	text-align: right;
+	text-align: justify;
+	color: #333;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 18px;
+}
+
+li {
+	color: #333;
+	list-style-type: square;
+}
+
+.bg_menuha {
+	background: burlywood;
+}
+
+.menuha a {
+	padding: 15px 30px;
+	text-align: center;
+	border-right: #3f4852 solid 1px;
+}
+
+.menuha a:hover {
+	color: #fd8612;
+	background-color: #3f4852;
+	border-bottom: #3f4852 solid 2px;
+	transition: all .5s ease;
+}
+
+.margin {
+	margin-top: 78px;
+}
+
+.menuha ul {
+	position: center;
+}
+
+.menuha {
+	background-color: #2a3644;
+	font-family: Arial, sans-serif;
+	padding-left: 0;
+	border: #3f4852 solid 1px;
+	text-align: justify;
+	padding: 0;
+	display: table;
+	font-size: 16px;
+	border-collapse: collapse;
+	height: 50px;
+	margin-top: 0;
+	display: block;
+}
+
+.menuha-page a {
+	padding: 15px 30px;
+	text-align: center;
+	border-right: #3f4852 solid 1px;
+}
+
+.menuha-page a:hover {
+	color: #fd8612;
+	background-color: #3f4852;
+	border-bottom: #3f4852 solid 2px;
+	transition: all .5s ease;
+}
+
+.menuha-page {
+	background-color: #2a3644;
+	font-family: Arial, sans-serif;
+	padding-left: 0;
+	border: #3f4852 solid 1px;
+	text-align: justify;
+	padding: 0;
+	display: table;
+	font-size: 16px;
+	border-collapse: collapse;
+}
+
+.menuha-page li {
+	display: inline-block;
+	list-style: none;
+}
+
+.menuha li {
+	display: inline-block;
+	list-style: none;
+}
+
+.border-bottom_menu {
+	border-bottom: 2px solid #c0c1c2;
+}
+
+a {
+	text-decoration: none;
+	display: inline-block;
+	color: white;
+}
+
+.h1_menu {
+	text-align: center;
+	padding: 10px;
+}
+
+.index {
+	padding: 20px;
+	padding-top: 0;
+	margin: 0 auto;
+}
+
+.mn {
+	margin-top: 63px;
+}
+
+h1 {
+	color: #333;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h2 {
+	color: #333;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-bottom: 2px solid grey;
+}
+
+h3 {
+	color: #333;
+	margin: 0;
+	padding-bottom: 10px;
+}
+
+h4 {
+	color: #333;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h5 {
+	color: #333;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h6 {
+	color: #333;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+img {
+	width: 100%;
+	vertical-align: middle;
+}
+
+.block-wrapper {
+	padding: 20px;
+	width: 1060px;
+	background: burlywood;
+}
+
+.images img {
+	font-size: 0;
+}
+
+.images img {
+	width: 33%;
+	padding-top: 10px;
+}
+
+.video {
+	background: black;
+	padding: 30px;
+	width: 70%;
+}
+
+.audio {
+	float: left;
+	padding-top: 10px;
+	padding-right: 59px;
+}
+
+.audio2 {
+	float: right;
+}
+
+.audio2 h4 {
+	padding-bottom: 0px;
+}
+
+.audio3 {
+	padding-top: 10px;
+}
+
+.audio3 h3 {
+	padding-bottom: 0px;
+}
+
+.audio h3 {
+	padding-bottom: 0px;
+}
+
+.audio2 h3 {
+	padding-bottom: 0px;
+	padding-top: 10px;
+	width: 329px;
+}
+
+.audiowidth {
+	width: 100%;
+}
+
+.download a {
+	padding: 10px 15px;
+	background-color: #2a3644;
+	color: white;
+
+}
+
+.download a:hover {
+	background-color: #3f4852;
+	cursor: pointer;
+}
+
+.download2 a {
+	padding: 10px 15px;
+	background-color: #2a3644;
+	display: inline-block;
+	color: white;
+}
+
+.download2 a:hover {
+	background-color: #3f4852;
+	cursor: pointer;
+}
+
+.video_achivment {
+	width: 70%;
+}
+
+.video_index iframe {
+	width: 560px;
+}
+
+.game a {
+	background-color: #2a3644;
+	color: white;
+	padding: 10px 20px;
+}
+
+.game {
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.game :hover {
+	background-color: #3f4852;
+	cursor: pointer;
+}
+
+.png {
+	width: 700px;
+	float: left;
+	font-size: 26px;
+}
+
+.jpg {
+	width: 220px;
+	float: left;
+	margin: 0;
+	margin-right: 20px;
+	border: 3px solid grey;
+	margin-top: 10px;
+	height: 199px;
+}
+
+.jpg-vidos_photos {
+	width: 220px;
+	float: left;
+	margin: 0;
+	margin-right: 20px;
+	border: 3px solid grey;
+	margin-top: 10px;
+	height: 217px;
+}
+
+.jpg-vidos {
+	width: 220px;
+	float: left;
+	margin: 0;
+	margin-right: 20px;
+	border: 3px solid grey;
+	margin-top: 10px;
+	height: 221px;
+}
+
+.jpg-gif_stive_alex {
+	width: 220px;
+	float: left;
+	margin: 0;
+	margin-right: 20px;
+	border: 3px solid grey;
+	margin-top: 55px;
+	height: 159px;
+}
+
+.jpg-nether {
+	width: 220px;
+	float: left;
+	margin: 0;
+	margin-right: 20px;
+	border: 3px solid grey;
+	margin-top: 10px;
+	height: 160px;
+}
+
+.jpg-minecraft {
+	width: 220px;
+	float: left;
+	margin: 0;
+	margin-right: 20px;
+	border: 3px solid grey;
+	margin-top: 10px;
+	height: 146px;
+}
+
+.jpg-ender {
+	width: 220px;
+	float: left;
+	margin: 0;
+	margin-right: 20px;
+	border: 3px solid grey;
+	margin-top: 10px;
+	height: 159px;
+}
+
+.jpg-bedrock-edition {
+	width: 220px;
+	float: left;
+	margin: 0;
+	margin-right: 20px;
+	border: 3px solid grey;
+	margin-top: 10px;
+	height: 157px;
+}
+
+.jpg-youmine {
+	width: 220px;
+	float: left;
+	margin: 0;
+	margin-right: 20px;
+	border: 3px solid grey;
+	margin-top: 10px;
+	height: 145px;
+}
+
+.jpg-not_name {
+	width: 220px;
+	left: 1068px;
+	margin: 0;
+	margin-right: 20px;
+	border: 3px solid grey;
+	margin-top: 10px;
+	height: 127px;
+	float: right;
+}
+
+.jpg-notch {
+	width: 220px;
+	float: left;
+	margin: 0;
+	margin-right: 20px;
+	border: 3px solid grey;
+	margin-top: 10px;
+	height: 135px;
+}
+
+.jpg_right {
+	width: 220px;
+	float: right;
+	margin: 0;
+	margin-right: 20px;
+	border: 3px solid grey;
+	margin: 10px;
+}
+
+.the_gamplay {
+	width: 220px;
+	float: left;
+	margin: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+.zet {
+	padding: 10px 20px;
+}
+
+.zet2 {
+	text-align: left;
+	font-size: 12px;
+	background: #c8ccd1;
+	border-top: 2px solid grey;
+	width: 220px;
+}
+
+.zet2_vidosick {
+	text-align: left;
+	font-size: 12px;
+	background: #c8ccd1;
+	border-top: 2px solid grey;
+	width: 220px;
+}
+
+.my_driwing {
+	padding: 10px;
+}
+
+.lishkiworld {
+	width: 700px;
+	float: left;
+}
+
+.worldphoto {
+	width: 220px;
+	float: left;
+	margin: 0;
+	margin-right: 20px;
+	background: #c8ccd1
+}
+
+.game3 {
+	padding: 10px;
+}
+
+.settings_download2 {
+	padding: 10px;
+}
+
+.wg {
+	width: 30px;
+}
+
+.setting_img {
+	padding: 10px;
+}
+
+.png_ach {
+	width: 220px;
+	height: 168px;
+	border: 0;
+	padding-bottom: 0;
+}
+
+.jpg2 {
+	float: left;
+	width: 220px;
+}
+
+.item td,
+.item th {
+	border: 2px solid #c0c1c2;
+	padding: 10px;
+}
+
+table {
+	border-collapse: collapse;
+	width: 50%;
+}
+
+.item2 td,
+.item2 th {
+	border: 2px solid #c0c1c2;
+	padding: 10px;
+}
+
+.item2 {
+	float: right;
+}
+
+.item {
+	float: left;
+}
+
+.img1 {
+	width: 20px;
+	float: left;
+}
+
+.gide a {
+	width: 10px 20px;
+	color: #333;
+}
+
+.set {
+	border: 2px solid blue;
+	background: Chocolate;
+	width: 960px;
+}
+
+.cursor iframe {
+	width: 50%;
+}
+
+.cursor {
+	padding-top: 10px;
+}
+
+.download3 {
+	padding: 20px;
+}
+
+.sborka {
+	width: 27%;
+	float: right;
+}
+
+.cursor2 {
+	border-bottom: 2px solid grey;
+}
+
+.setting {
+	padding: 18px 10px;
+}
+
+.jpg_mrlololoshka {
+	width: 110px;
+	float: right;
+	margin-top: 10px;
+	border: 2px solid gray;
+	margin-left: 10px;
+}
+
+iframe {
+	border: 4px solid grey;
+}
+
+.zet_mrlololoshka {
+	text-align: left;
+	font-size: 12px;
+	background: #c8ccd1;
+	border-top: 2px solid grey;
+	width: 110px;
+}
+
+.dd_sborka a {
+	padding: 10px 15px;
+	background-color: #2a3644;
+	display: inline-block;
+}
+
+.dd_sborka a:hover {
+	background-color: #3f4852;
+	cursor: pointer;
+}
+
+.dd_sborka {
+	padding-top: 10px;
+}
+
+.txt {
+	border: 1px solid #434b4d !important;
+	background: #434b4d;
+	width: 303px;
+	float: left;
+	list-style-type: none;
+}
+
+.txt h1 {
+	color: white;
+	text-align: center;
+}
+
+.nether {
+	padding-right: 10px;
+	padding-left: 10px;
+	border-right: 2px solid grey;
+	border-left: 2px solid grey;
+}
+
+.world {
+	padding-left: 10px;
+}
+
+.mojangs {
+	width: 163px;
+	margin-left: 10px;
+	border: 3px solid white;
+	background-color: white;
+	float: left;
+	padding: 0 20px;
+}
+
+.netherifor {
+	border: 0px;
+}
+
+.worldifor {
+	border: 0px;
+}
+
+.endinfor {
+	border: 0px;
+}
+
+.borderid {
+	background: #1E90FF;
+	text-align: center;
+	font-size: 120%;
+	font-weight: bold;
+	border: 1px solid #ccc;
+	border-bottom: 4px groove #999999;
+	border-right: 4px groove #999999;
+	padding: 5px;
+	width: 100%;
+}
+
+.dang {
+	float: right;
+	background: white;
+	width: 300px;
+	margin: 0 0 1em 1em;
+}
+
+.dangimg {
+	width: 250px;
+	height: 252px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.beforinfo {
+	width: 621px;
+}
+
+.iformationtext {
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.testok {
+	float: left;
+}
+
+.dang table {
+	width: 100px;
+}
+
+.block {
+	height: 32px;
+	width: 27px;
+}
+
+.dang td {
+	padding: 10px;
+}
+
+.beforinfor {
+	border-bottom: 2px solid grey;
+}
+
+.width_creaper {
+	width: 10px;
+}
+
+.jpg_padding {
+	width: 220px;
+	float: left;
+	margin-top: 10px;
+	margin-right: 20px;
+	border: 3px solid grey;
+
+}
+
+.png_padding {
+	width: 700px;
+	float: left;
+	margin-top: 10px;
+}
+
+.padding_piwov_vin_nafig {
+	padding-bottom: 0px;
+}
+
+.border-bottom {
+	color: #333;
+	border-bottom: 1px solid gray;
+}
+
+.ssc a {
+	color: #636;
+}
+
+ol {
+	margin: 0;
+}
+
+.setting_red-text {
+	color: red;
+	list-style: none;
+	text-align: center;
+}
+
+.blue_a a {
+	color: blue;
+}
+
+.roma {
+	width: 353px;
+	padding-bottom: 12px;
+}
+
+
+
+@media screen and (max-width: 986px) {
+	.menuha {
+		width: 900px;
+	}
+}
+
+@media screen and (max-width: 960px) {
+	.index {
+		width: 900px;
+	}
+}
+
+
+.phone p:first-child {
+	border-top: 2px solid grey;
+}
+
+@media screen and (max-width: 360px) {
+
+	.phone a,
+	.phone iframe,
+	.phone p:not(.zet_mrlololoshka) {
+		display: none;
+	}
+
+	.jpg_mrlololoshka {
+		float: left;
+		width: 120px;
+		margin-right: 10px;
+	}
+
+	.jpg_mrlololoshka p {
+		width: 120px;
+	}
+
+	.roma {
+		width: 546px;
+	}
+}

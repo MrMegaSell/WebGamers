@@ -1,0 +1,120 @@
+body{
+	background: fixed url(fon/fon1.jpg);
+	background-size: 100% auto;
+	margin: 0;
+}
+p{
+	text-align: left;
+	text-align: center;
+	text-align: right;
+	text-align: justify;
+	color: white;
+}
+ul{
+	background-color: white;
+}
+li{
+	color: white;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+.menu a:hover {
+	background-color: blue;
+	cursor: pointer;
+}
+.index{
+	background: lightseagreen;
+	position: relative;
+   	width: 100%;
+    	display: block;
+   	padding: 0%;
+	padding: 20px;
+	margin: 0 auto;	
+}
+h1{
+	color: white;		
+}
+h2{
+	color: white;
+}
+h3{
+	color: white;
+}
+h4{
+	color: white;
+}
+h5{
+	color: white;
+}
+h6{
+	color: white;
+} 
+img{
+	width: 100%;
+}
+.block-wrapper{
+	padding: 20px;
+	max-width: 960px;
+	margin: 0 auto;	
+	background: lightseagreen; 
+}
+.menu a{
+	background: steelblue;
+	color: white;
+	padding: 10px 20px;
+}
+.leon{
+	width: 10%;
+	height: 10%
+}
+.sendy{
+	width: 33%;
+}
+.spike{
+	width: 33%;
+}
+.crow{
+	width: 33%;
+}
+.skill{
+	background: #cbe1f5;
+	border-collapse: collapse;
+	border: 0px none ;
+	margin: 0%;
+}
+.brawler th,
+.brawler td{
+	border: 2px solid blue;
+	padding: 10px;
+}
+table{
+	border-collapse: collapse;
+}
+.li1{
+	width: 33%;
+}
+.cr1{
+	haight: 50px;
+}
+.sd1{
+	width: 33%;
+}
+.legendary a{
+	background: steelblue;
+	color: white;
+	padding: 10px 20px;
+}
+.legendary :hover{
+		background-color: blue;
+		cursor: pointer;
+}
+.video1{
+	width: 70%;
+}
+.h1_leon{
+	backgroung: SteelBlue;
+	font-size: 20px;
+	backgroung-width: 15px;
+}

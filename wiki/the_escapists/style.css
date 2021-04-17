@@ -1,0 +1,400 @@
+body {
+	background: url(fon/fon1.jpg) fixed;
+	margin: 0;
+}
+
+p {
+	text-align: left;
+	text-align: center;
+	text-align: right;
+	text-align: justify;
+	color: #fff;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.div_the_escapists {
+	border: 1px solid #f79a37;
+    width: 395px;
+}
+
+.div_the_escapists a{
+	text-align: center;
+	color: #faa700;
+}
+
+.div_the_escapists a:hover{
+	text-decoration: underline;
+}
+
+
+.header img {
+	width: 100px;
+	height: 31px;
+	text-align: center;
+}
+
+
+.header {
+	background: #f79a37;
+	box-shadow: none;
+	color: #FFFFFF;
+	font-size: 125%;
+	margin: 10px 6px 28px;
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+ul {
+	color: #fff;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+ol {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+li {
+	color: #fff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+}
+
+.menu a {
+	color: #fff;
+	padding: 10px 15px;
+	background: black;
+	text-align: center;
+	display: inline-block;
+	border-radius: 15px;
+	border-width: 10px;
+	border-style: solid;
+	border-color: LightGrey;
+}
+
+.h1_menu {
+	text-align: center;
+	padding: 10px;
+}
+
+.index {
+	width: 100%;
+	padding: 0%;
+	padding: 20px;
+	padding: 20px;
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+.menu a:hover {
+	background-color: DimGray;
+	cursor: pointer;
+	border-width: 10px;
+	border-style: solid;
+	border-color: LightGray;
+}
+
+h1 {
+	color: #fff;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h2 {
+	color: #fff;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h3 {
+	color: #fff;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h4 {
+	color: #fff;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h5 {
+	color: #fff;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h6 {
+	color: #fff;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+img {
+	width: 67%;
+}
+
+.block-wrapper {
+	padding: 20px;
+    margin: 0 auto;
+    border: 1px #f79a37 solid;
+    background: url(fon/fon3.png) no-repeat fixed center top;
+    margin-right: 36px;
+    margin-left: 220px;
+    width: 1250px;
+    background-size: cover;
+}
+.wrapper {
+    margin-right: 36px;
+    margin-left: 220px;
+    width: 1250px;
+}
+.wrapper a:first-child{
+	background: #f79a37;
+	display: inline-block;
+    border: 1px solid #f79a37;
+    border-radius: 4px 4px 4px 4px;
+    padding: 2px 10px;
+    margin-bottom: 7px;
+	margin-top: 59px;
+    height: 19px;
+    text-align: center;
+}
+
+.png {
+	width: 700px;
+	float: left;
+}
+
+.jpg {
+	width: 220px;
+	float: left;
+	margin: 0;
+	margin-right: 20px;
+	border: 2px solid grey;
+	background: white;
+}
+
+.zet2 {
+	text-align: left;
+	font-size: 12px;
+	padding: 10px;
+	background: #c8ccd1;
+	border: 2px solid grey;
+}
+
+.wg {
+	width: 30px;
+}
+
+.img2 {
+	float: left;
+	width: 35px;
+	margin: 0;
+	margin-right: 20px;
+}
+
+.img2_h2 {
+	float: left;
+}
+
+.clear {
+	clear: both;
+}
+
+.treiler {
+	width: 100%;
+	height: 400px;
+}
+
+.treiler2 {
+	width: 100%;
+	height: 400px;
+}
+
+.zett {
+	padding: 0px;
+}
+
+.item_video1 {
+	width: 100%;
+	height: 400px;
+}
+
+.vidd {
+	width: 100%;
+	height: 400px;
+}
+
+.viddeo {
+	width: 100%;
+	height: 400px;
+}
+
+.information {
+	background-color: transparent;
+	border: 1px solid #f79a37;
+	color: black;
+	float: right;
+	font-size: 89%;
+	margin-bottom: 0.5em;
+	margin-left: 1em;
+	padding: 0.2em;
+	width: 300px;
+	float: left;
+}
+
+.infoboxname {
+	background-color: #f79a37;
+	border: 2px solid inherit;
+	color: black;
+	font-size: 100%;
+	font-weight: bold;
+	padding: 0.5em;
+	text-shadow: 0 0 black;
+}
+
+.borders td,
+.border tr {
+	border: 2px solid #fff;
+	padding: 10px;
+	color: #fff;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+.viddos iframe {
+	width: 100%;
+	height: 400px;
+}
+
+.paddings {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.all li {
+	padding: 0px;
+}
+
+.schedule {
+	width: 605px;
+	border-bottom: 2px solid gray;
+	margin-bottom: 20px;
+}
+
+.bordersright td,
+.bordersright tr {
+	border: 2px solid #fff;
+	padding: 10px;
+	color: #fff;
+}
+
+.alli ul {
+	list-style: none;
+}
+
+.dl {
+	border-bottom: 2px solid grey;
+	margin-bottom: 10px;
+}
+
+.itemborders th {
+	text-align: center;
+	border: 2px solid grey;
+	border-bottom: 0px;
+	color: #fff;
+}
+
+.itemborders td {
+	border-bottom: 0px;
+	border: 2px solid grey;
+	color: #fff;
+
+}
+
+.stv {
+	border: 2px solid grey;
+	background: #f79a37;
+	width: 24%;
+}
+
+.officer {
+	width: 928px;
+	float: left;
+}
+
+.items_for_escapests {
+	width: 27px;
+	height: 32px;
+	float: right;
+}
+
+.items_for_escapests_not_float {
+	height: 32px;
+	width: 27px;
+}
+
+.save {
+	background: #f79a37;
+}
+
+.dalete_not {
+	background: #f79a37;
+}
+
+.h2h2 {
+	border-bottom: 2px solid grey;
+	margin-bottom: 10px;
+}
+
+.game-prosed {
+	width: 794px;
+}
+
+.menu-card a {
+	color: black;
+	text-transform: uppercase;
+	padding-right: 10px;
+}
+
+.menu-card a:hover {
+	color: grey;
+}
+
+.bg {
+	width: 10px;
+	background: #888484;
+	position: absolute;
+	top: 415px;
+	left: 1095px;
+}
+.indomatiyon{
+	float: right;
+    width: 850px;
+    margin-top: -299px;
+}
+.mappas img{
+	width: 424px;
+    height: 330px;
+    margin-right: 784px;
+}

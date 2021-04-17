@@ -1,0 +1,113 @@
+body {
+	background: fixed url(img/fon.png);
+	margin: 0px;
+}
+
+* {
+	padding: 0;
+}
+.clear{
+	clear: both;
+}
+
+p {
+	text-align: left;
+	text-align: center;
+	text-align: right;
+	text-align: justify;
+	color: #333;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 18px;
+}
+
+a {
+	text-decoration: none;
+	display: inline-block;
+	color: white;
+}
+
+h1 {
+	color: #333;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h2 {
+	color: #333;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h3 {
+	color: #333;
+	margin: 0;
+	padding-bottom: 10px;
+}
+
+h4 {
+	color: #333;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h5 {
+	color: #333;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h6 {
+	color: #333;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+img {
+	width: 100%;
+	vertical-align: middle;
+}
+
+.block-wrapper {
+	padding: 20px;
+	width: 1060px;
+	background: burlywood;
+	margin-left: 306px;
+}
+.block,
+.block3{
+	float: left;
+}
+
+.block,
+.block2,
+.block3,
+.block4 {
+	background: #66CDAA;
+	border-radius: 10px;
+	width: 435px;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.block2,
+.block4 {
+	float: right;
+}
+
+.block img,
+.block2 img,
+.block3 img{
+	width: 262px;
+    height: 159px;
+}
+.block4 img{
+	width: 262px;
+    height: 109px;
+}

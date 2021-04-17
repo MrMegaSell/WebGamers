@@ -1,0 +1,87 @@
+body{
+	background: fixed url(fon/fon1.jpg);
+	background-size: 100% auto;
+	margin: 0;
+}
+p{
+	text-align: left;
+	text-align: center;
+	text-align: right;
+	text-align: justify;
+	text-indent: 1.5em;
+	color: #333;
+}
+ul{
+	background-color: #333;
+}
+li{
+	color: #333;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+.menu a:hover {
+	background-color: blue;
+	cursor: pointer;
+}
+.clear{
+	clear: both;
+}
+h1{
+	color: #333;		
+}
+h2{
+	color: #333;
+}
+h3{
+	color: #333;
+}
+h4{
+	color: #333;
+}
+h5{
+	color: #333;
+}
+h6{
+	color: #333;
+} 
+img{
+	width: 40%;
+}
+.block-wrapper{
+	padding: 20px;
+	max-width: 960px;
+	margin: 0 auto;	
+	background: burlywood;
+}
+.images{
+	font-size: 0;
+}
+.video{
+}	
+.menu a{
+	background: navy;
+	color: white;
+	padding: 10px 20px;
+}
+.video{
+	width: 560;
+}
+.wg{
+	width: 50px;
+}
+.h1_menu{
+	text-align: center;
+	padding: 10px;
+}
+.index{
+	background: BurlyWood;
+   	width: 100%;
+   	padding: 0%;
+	padding: 20px;
+	padding: 20px;
+	max-width: 960px;
+	margin: 0 auto;
+}	
+	
